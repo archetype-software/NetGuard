@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ic lenovo\\Documents\\GitHub\\NetGuard\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ic lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ic lenovo\\Documents\\GitHub\\NetGuard\\app\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ic lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ic lenovo\\Documents\\GitHub\\NetGuard\\app\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "netguard-Debug-x86": {
+      "artifactName": "netguard",
+      "buildCommandComponents": [
+        "C:\\Users\\ic lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\ic lenovo\\Documents\\GitHub\\NetGuard\\app\\.cxx\\cmake\\debug\\x86",
+        "netguard"
+      ],
+      "abi": "x86",
+      "output": "C:\\Users\\ic lenovo\\Documents\\GitHub\\NetGuard\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnetguard.so",
+      "runtimeFiles": []
+    }
+  }
+}

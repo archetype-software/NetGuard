@@ -1,0 +1,1 @@
+C:\Users\ic lenovo\Documents\GitHub\NetGuard\app\CMakeLists.txt
